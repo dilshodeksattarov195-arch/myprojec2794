@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperpave",
+        "uuid": 21868638,
+        "checksum": "upmv97"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
